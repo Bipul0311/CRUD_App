@@ -1,0 +1,43 @@
+{
+  "users": [
+    {
+      "id": 10,
+      "name": "jack",
+      "username": "jimmy",
+      "email": "Rey.Padberg@karina.biz",
+      "address": {
+        "street": "Kattie Turnpike",
+        "suite": "Suite 198",
+        "city": "Lebsackbury",
+        "zipcode": "31428-2261",
+        "geo": {
+          "lat": "-38.2386",
+          "lng": "57.2232"
+        }
+      },
+      "phone": "024-648-3804",
+      "website": "jimmy.net",
+      "company": {
+        "name": "Hoeger LLC",
+        "catchPhrase": "Centralized empowering task-force",
+        "bs": "target end-to-end models"
+      }
+    },
+    {
+      "name": "vipul",
+      "username": "kumar0311",
+      "email": "vk@gmail.com",
+      "phone": "12345675",
+      "website": "abc@ping.com",
+      "id": 11
+    },
+    {
+      "name": "john",
+      "username": "j123",
+      "email": "j123@gmail.com",
+      "phone": "7894565855",
+      "website": "abc@hello.com",
+      "id": 12
+    }
+  ]
+}
